@@ -25,6 +25,9 @@ public class AlertHandler
 	{
 		//Will pass the text to the prompt popup
 		alert.sendKeys(Keys);
+		System.out.println("ankit");
 	}
 
+	
+	
 }
