@@ -1,0 +1,104 @@
+2017-07-26 01:22:41,683 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:22:41,686 - unusedScenarios.readactions -INFO - 0:[Nakuri->LoginElemant, Click, ]
+2017-07-26 01:22:41,864 - scenario.methodFactory -INFO - sendkey method has called
+2017-07-26 01:22:41,864 - unusedScenarios.readactions -INFO - 1:[Nakuri->emailElemant, SendKey, Nakuri->ULID]
+2017-07-26 01:22:41,991 - scenario.methodFactory -INFO - sendkey method has called
+2017-07-26 01:22:41,991 - unusedScenarios.readactions -INFO - 2:[Nakuri->pwdelemant, SendKey, Nakuri->LPWD]
+2017-07-26 01:22:43,956 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:22:43,956 - unusedScenarios.readactions -INFO - 3:[Nakuri->lgnbtnelemant, click, ]
+2017-07-26 01:22:53,774 - scenario.methodFactory -INFO - scrolltoview method has called
+2017-07-26 01:22:53,774 - unusedScenarios.readactions -INFO - 4:[Nakuri->viewAndUpdateProfile, ScrollToView, ]
+2017-07-26 01:22:55,746 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:22:55,746 - unusedScenarios.readactions -INFO - 5:[Nakuri->viewAndUpdateProfile, ClicK, ]
+2017-07-26 01:22:55,803 - scenario.methodFactory -INFO - scrolltoview method has called
+2017-07-26 01:22:55,803 - unusedScenarios.readactions -INFO - 6:[Nakuri->UplaodLinkElement, ScrollToView, ]
+2017-07-26 01:22:55,915 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:22:55,915 - unusedScenarios.readactions -INFO - 7:[Nakuri->UplaodLinkElement, click, ]
+2017-07-26 01:22:56,043 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:22:56,043 - unusedScenarios.readactions -INFO - 8:[Nakuri->attachCV, click, ]
+2017-07-26 01:22:56,082 - scenario.methodFactory -INFO - uploadfile method has called
+2017-07-26 01:22:56,082 - unusedScenarios.readactions -INFO - 9:[uploadFilePath, uploadfile, ]
+2017-07-26 01:23:06,121 - scenario.methodFactory -INFO - sleep has called
+2017-07-26 01:23:06,122 - unusedScenarios.readactions -INFO - 10:[aaa, sleep, sleepwaittime]
+2017-07-26 01:23:06,277 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:23:06,278 - unusedScenarios.readactions -INFO - 11:[Nakuri->UploadsaveBtn, click, ]
+2017-07-26 01:48:23,760 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:48:23,767 - unusedScenarios.readactions -INFO - 0:[Nakuri->LoginElemant, Click, ]
+2017-07-26 01:48:24,028 - scenario.methodFactory -INFO - sendkey method has called
+2017-07-26 01:48:24,028 - unusedScenarios.readactions -INFO - 1:[Nakuri->emailElemant, SendKey, mittal.ankit91@gmail.com]
+2017-07-26 01:48:24,181 - scenario.methodFactory -INFO - sendkey method has called
+2017-07-26 01:48:24,182 - unusedScenarios.readactions -INFO - 2:[Nakuri->pwdelemant, SendKey, Ankit@123]
+2017-07-26 01:48:25,621 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:48:25,622 - unusedScenarios.readactions -INFO - 3:[Nakuri->lgnbtnelemant, click, ]
+2017-07-26 01:48:33,592 - scenario.methodFactory -INFO - scrolltoview method has called
+2017-07-26 01:48:33,592 - unusedScenarios.readactions -INFO - 4:[Nakuri->viewAndUpdateProfile, ScrollToView, ]
+2017-07-26 01:48:34,426 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:48:34,427 - unusedScenarios.readactions -INFO - 5:[Nakuri->viewAndUpdateProfile, ClicK, ]
+2017-07-26 01:48:34,516 - scenario.methodFactory -INFO - scrolltoview method has called
+2017-07-26 01:48:34,516 - unusedScenarios.readactions -INFO - 6:[Nakuri->UplaodLinkElement, ScrollToView, ]
+2017-07-26 01:48:34,669 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:48:34,670 - unusedScenarios.readactions -INFO - 7:[Nakuri->UplaodLinkElement, click, ]
+2017-07-26 01:48:34,828 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:48:34,829 - unusedScenarios.readactions -INFO - 8:[Nakuri->attachCV, click, ]
+2017-07-26 01:48:34,905 - scenario.methodFactory -INFO - uploadfile method has called
+2017-07-26 01:48:34,906 - unusedScenarios.readactions -INFO - 9:[uploadFilePath, uploadfile, ]
+2017-07-26 01:48:44,918 - scenario.methodFactory -INFO - sleep has called
+2017-07-26 01:48:44,919 - unusedScenarios.readactions -INFO - 10:[, sleep, 10]
+2017-07-26 01:48:45,077 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:48:45,077 - unusedScenarios.readactions -INFO - 11:[Nakuri->UploadsaveBtn, click, ]
+2017-07-26 01:50:05,140 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:50:05,145 - unusedScenarios.readactions -INFO - 0:[Nakuri->LoginElemant, Click, ]
+2017-07-26 01:50:05,380 - scenario.methodFactory -INFO - sendkey method has called
+2017-07-26 01:50:05,380 - unusedScenarios.readactions -INFO - 1:[Nakuri->emailElemant, SendKey, mittal.ankit91@gmail.com]
+2017-07-26 01:50:05,541 - scenario.methodFactory -INFO - sendkey method has called
+2017-07-26 01:50:05,542 - unusedScenarios.readactions -INFO - 2:[Nakuri->pwdelemant, SendKey, Ankit@123]
+2017-07-26 01:50:13,238 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:50:13,239 - unusedScenarios.readactions -INFO - 3:[Nakuri->lgnbtnelemant, click, ]
+2017-07-26 01:50:13,354 - scenario.methodFactory -INFO - scrolltoview method has called
+2017-07-26 01:50:13,354 - unusedScenarios.readactions -INFO - 4:[Nakuri->viewAndUpdateProfile, ScrollToView, ]
+2017-07-26 01:50:15,177 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:50:15,177 - unusedScenarios.readactions -INFO - 5:[Nakuri->viewAndUpdateProfile, ClicK, ]
+2017-07-26 01:50:15,283 - scenario.methodFactory -INFO - scrolltoview method has called
+2017-07-26 01:50:15,283 - unusedScenarios.readactions -INFO - 6:[Nakuri->UplaodLinkElement, ScrollToView, ]
+2017-07-26 01:50:15,462 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:50:15,462 - unusedScenarios.readactions -INFO - 7:[Nakuri->UplaodLinkElement, click, ]
+2017-07-26 01:50:15,617 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:50:15,617 - unusedScenarios.readactions -INFO - 8:[Nakuri->attachCV, click, ]
+2017-07-26 01:50:15,738 - scenario.methodFactory -INFO - uploadfile method has called
+2017-07-26 01:50:15,739 - unusedScenarios.readactions -INFO - 9:[uploadFilePath, uploadfile, ]
+2017-07-26 01:50:25,760 - scenario.methodFactory -INFO - sleep has called
+2017-07-26 01:50:25,761 - unusedScenarios.readactions -INFO - 10:[, sleep, 10]
+2017-07-26 01:50:28,096 - scenario.methodFactory -INFO - click method has called
+2017-07-26 01:50:28,097 - unusedScenarios.readactions -INFO - 11:[Nakuri->UploadsaveBtn, click, ]
+2017-07-27 14:38:39,220 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\app.properties has loaded
+2017-07-27 14:38:39,738 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Amazon.properties has loaded
+2017-07-27 14:38:39,740 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Bigbasket.properties has loaded
+2017-07-27 14:38:39,763 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Matrix.properties has loaded
+2017-07-27 14:38:39,765 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\seleniumpoint.properties has loaded
+2017-07-27 14:38:39,768 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\DataBase.properties has loaded
+2017-07-27 14:38:39,783 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\Elemant.properties has loaded
+2017-07-27 14:38:39,788 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\UserInput.properties has loaded
+2017-07-27 14:38:39,837 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\app.properties has loaded
+2017-07-27 14:38:39,862 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Amazon.properties has loaded
+2017-07-27 14:38:39,865 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Bigbasket.properties has loaded
+2017-07-27 14:38:39,865 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Matrix.properties has loaded
+2017-07-27 14:38:39,865 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\seleniumpoint.properties has loaded
+2017-07-27 14:38:39,865 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\DataBase.properties has loaded
+2017-07-27 14:38:39,867 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\Elemant.properties has loaded
+2017-07-27 14:38:39,867 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\UserInput.properties has loaded
+2017-07-27 14:39:21,392 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\app.properties has loaded
+2017-07-27 14:39:21,407 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Amazon.properties has loaded
+2017-07-27 14:39:21,407 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Bigbasket.properties has loaded
+2017-07-27 14:39:21,409 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Matrix.properties has loaded
+2017-07-27 14:39:21,409 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\seleniumpoint.properties has loaded
+2017-07-27 14:39:21,409 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\DataBase.properties has loaded
+2017-07-27 14:39:21,416 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\Elemant.properties has loaded
+2017-07-27 14:39:21,416 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\UserInput.properties has loaded
+2017-07-27 14:39:21,437 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\app.properties has loaded
+2017-07-27 14:39:21,457 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Amazon.properties has loaded
+2017-07-27 14:39:21,458 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Bigbasket.properties has loaded
+2017-07-27 14:39:21,458 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\Matrix.properties has loaded
+2017-07-27 14:39:21,458 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\appPageElemants\seleniumpoint.properties has loaded
+2017-07-27 14:39:21,459 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\DataBase.properties has loaded
+2017-07-27 14:39:21,459 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\Elemant.properties has loaded
+2017-07-27 14:39:21,459 - scenario.ReadProerties -INFO - Property file C:\Ankit_eclips\BigBasket\bin\Objects\UserInput.properties has loaded
