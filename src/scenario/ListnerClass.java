@@ -24,8 +24,8 @@ public class ListnerClass implements ITestListener {
 	}
 
 	@Test
-	public void onTestFailedButWithinSuccessPercentage(ITestResult sasa) {
-
+	public void onTestFailedButWithinSuccessPercentage(ITestResult sasa) 
+	{
 	}
 
 	@Test
