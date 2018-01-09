@@ -8,7 +8,7 @@ package scenario;
  *
  */
 public class WriteIntoExcelSheet {
-
+********************//Start - Write into Excel Sheet//************************************
 public static void writeIntoFile(int rowcount, int colCount, String filename) {
 		Workbook workbook = new HSSFWorkbook();
 		Sheet sheet = workbook.createSheet("JavaBook");
@@ -71,8 +71,9 @@ public static void writeIntoFile(int rowcount, int colCount, String filename) {
 		}
 		return rowData;
 	}
+********************//End - Write into Excel Sheet//************************************
 	
-********************//Start To Zip generated file at same location//************************************
+********************//Start - Zip generated file at same location//************************************
 	 private static void zipFile(File file, String zipFileName) {
 	        try {
 	            FileOutputStream fos = new FileOutputStream(zipFileName);
@@ -100,5 +101,5 @@ public static void writeIntoFile(int rowcount, int colCount, String filename) {
 	            e.printStackTrace();
 	        }
 	    }
-********************//End To Zip generated file at same location//************************************
+********************//End - Zip generated file at same location//************************************
 }
