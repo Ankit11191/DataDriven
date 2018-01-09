@@ -3,6 +3,20 @@
  */
 package scenario;
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipOutputStream;
+
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+
 /**
  * @author Ankit.Mittal
  *
@@ -11,7 +25,7 @@ public class WriteIntoExcelSheet {
 ********************//Start - Write into Excel Sheet//************************************
 public static void writeIntoFile(int rowcount, int colCount, String filename) {
 		Workbook workbook = new HSSFWorkbook();
-		Sheet sheet = workbook.createSheet("JavaBook");
+		Sheet sheet = workbook.createSheet(filename);
 
 		int rowCount = 0;
 
@@ -71,7 +85,7 @@ public static void writeIntoFile(int rowcount, int colCount, String filename) {
 		}
 		return rowData;
 	}
-********************//End - Write into Excel Sheet//************************************
+*********************//End - Write into Excel Sheet//**************************************************
 	
 ********************//Start - Zip generated file at same location//************************************
 	 private static void zipFile(File file, String zipFileName) {
