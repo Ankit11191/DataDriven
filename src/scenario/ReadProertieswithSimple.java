@@ -10,7 +10,7 @@ public class ReadProerties  {
 	private static Properties getObjectRepository(String propfilepath)
 	{
 		try{
-		URL url = ReadProerties.class.getClassLoader().getResource(propfilepath);
+		URL url = new Object(){}.getClass().getClassLoader().getResource(propfilepath);
 
 		File fileinfolder = new File(url.toURI());
 		String[] filesinDir = fileinfolder.list();
